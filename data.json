@@ -1,0 +1,339 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "愛可寧C電子用清潔液",
+      "brand": "電子用清潔液",
+      "state": "液體",
+      "flash": 13,
+      "water": "非水溶性",
+      "fire_yn": "是",
+      "fire_sub": "第四類（易燃液體）",
+      "fire_ctrl": 400,
+      "total_ton": 0.0189,
+      "ratio": 0.04725,
+      "fire_reach": "否",
+      "pm_yn": "否",
+      "pm_kuan": "",
+      "pm_thr": "",
+      "organic": "是",
+      "spec_chem": "否",
+      "toxic": "否",
+      "health_chk": "",
+      "sds_date": "2024/3/1",
+      "dept_count": 3
+    },
+    {
+      "id": "2",
+      "name": "95%乙醇(酒精)",
+      "brand": "酒精",
+      "state": "液體",
+      "flash": 13,
+      "water": "水溶性",
+      "fire_yn": "是",
+      "fire_sub": "第四類（易燃液體）",
+      "fire_ctrl": 400,
+      "total_ton": 0.084,
+      "ratio": 0.21,
+      "fire_reach": "否",
+      "pm_yn": "否",
+      "pm_kuan": "",
+      "pm_thr": "",
+      "organic": "是",
+      "spec_chem": "否",
+      "toxic": "否",
+      "health_chk": "",
+      "sds_date": "2024/3/1",
+      "dept_count": 1
+    },
+    {
+      "id": "3",
+      "name": "超級柴油",
+      "brand": "柴油",
+      "state": "液體",
+      "flash": 74,
+      "water": "非水溶性",
+      "fire_yn": "是",
+      "fire_sub": "第四類（易燃液體）",
+      "fire_ctrl": 2000,
+      "total_ton": 0.95,
+      "ratio": 0.475,
+      "fire_reach": "否",
+      "pm_yn": "否",
+      "pm_kuan": "",
+      "pm_thr": "",
+      "organic": "否",
+      "spec_chem": "否",
+      "toxic": "否",
+      "health_chk": "",
+      "sds_date": "",
+      "dept_count": 1
+    },
+    {
+      "id": "4",
+      "name": "WD-40",
+      "brand": "潤滑防鏽劑",
+      "state": "液體",
+      "flash": 49,
+      "water": "非水溶性",
+      "fire_yn": "是(推算)",
+      "fire_sub": "第二石油類",
+      "fire_ctrl": 1000,
+      "total_ton": 0.0004,
+      "ratio": 0.0004,
+      "fire_reach": "否",
+      "pm_yn": "否",
+      "pm_kuan": "",
+      "pm_thr": "",
+      "organic": "是",
+      "spec_chem": "否",
+      "toxic": "否",
+      "health_chk": "",
+      "sds_date": "2024/3/1",
+      "dept_count": 1
+    },
+    {
+      "id": "5",
+      "name": "TD13",
+      "brand": "清潔劑TD13",
+      "state": "液體",
+      "flash": 12,
+      "water": "水溶性",
+      "fire_yn": "是",
+      "fire_sub": "第四類（易燃液體）",
+      "fire_ctrl": 400,
+      "total_ton": 0.0189,
+      "ratio": 0.04725,
+      "fire_reach": "否",
+      "pm_yn": "是",
+      "pm_kuan": "第2款 第3款",
+      "pm_thr": "【第2款】年運作量≥1公噸即須備查 【第3款】依GHS分類計算",
+      "organic": "是",
+      "spec_chem": "否",
+      "toxic": "否",
+      "health_chk": "",
+      "sds_date": "2024/3/1",
+      "dept_count": 5
+    }
+  ],
+  "components": {
+    "1": [
+      {
+        "name": "乙醇",
+        "en": "Ethanol",
+        "cas": "64-17-5",
+        "twa": "1000 ppm",
+        "org_type": "有機溶劑（未列入附表一分類）",
+        "is_org": "是",
+        "eval": "作業採樣",
+        "health": "",
+        "pm_kuan": "未列入",
+        "is_tox": "否"
+      },
+      {
+        "name": "水",
+        "en": "Water",
+        "cas": "7732-18-5",
+        "twa": "—",
+        "org_type": "",
+        "is_org": "否",
+        "eval": "CCB",
+        "health": "",
+        "pm_kuan": "未列入",
+        "is_tox": "否"
+      }
+    ],
+    "2": [
+      {
+        "name": "乙醇",
+        "en": "Ethanol",
+        "cas": "64-17-5",
+        "twa": "1000 ppm",
+        "org_type": "有機溶劑（未列入附表一分類）",
+        "is_org": "是",
+        "eval": "作業採樣",
+        "health": "",
+        "pm_kuan": "未列入",
+        "is_tox": "否"
+      }
+    ],
+    "3": [
+      {
+        "name": "柴油",
+        "en": "Super Diesel",
+        "cas": "68476-34-6",
+        "twa": "—",
+        "org_type": "",
+        "is_org": "否",
+        "eval": "CCB",
+        "health": "",
+        "pm_kuan": "未列入",
+        "is_tox": "否"
+      }
+    ],
+    "4": [
+      {
+        "name": "異烷烃",
+        "en": "C13-16 Isoparaffin",
+        "cas": "68551-20-2",
+        "twa": "—",
+        "org_type": "有機溶劑（未列入附表一管制分類）",
+        "is_org": "是",
+        "eval": "作業採樣",
+        "health": "",
+        "pm_kuan": "未列入",
+        "is_tox": "否"
+      },
+      {
+        "name": "二氧化碳",
+        "en": "Carbon Dioxide",
+        "cas": "124-38-9",
+        "twa": "5000 ppm",
+        "org_type": "",
+        "is_org": "否",
+        "eval": "暴露評估",
+        "health": "",
+        "pm_kuan": "未列入",
+        "is_tox": "否"
+      }
+    ],
+    "5": [
+      {
+        "name": "異丙醇",
+        "en": "Isopropyl Alcohol",
+        "cas": "67-63-0",
+        "twa": "400 ppm",
+        "org_type": "有機溶劑第二種",
+        "is_org": "是",
+        "eval": "作業採樣",
+        "health": "",
+        "pm_kuan": "第3款",
+        "is_tox": "否"
+      },
+      {
+        "name": "甲醇",
+        "en": "Methyl Alcohol",
+        "cas": "67-56-1",
+        "twa": "200 ppm",
+        "org_type": "有機溶劑第二種",
+        "is_org": "是",
+        "eval": "作業採樣",
+        "health": "",
+        "pm_kuan": "第2款",
+        "is_tox": "否"
+      },
+      {
+        "name": "脂肪烃類",
+        "en": "Aliphatics",
+        "cas": "37839-01-3",
+        "twa": "—",
+        "org_type": "",
+        "is_org": "否",
+        "eval": "CCB",
+        "health": "",
+        "pm_kuan": "未列入",
+        "is_tox": "否"
+      }
+    ]
+  },
+  "departments": {
+    "1": [
+      {
+        "unit": "KVM組裝課",
+        "mgr": "孫柏豪",
+        "tel": "335",
+        "qty": 18.9,
+        "unit_str": "L",
+        "monthly": 4.7
+      },
+      {
+        "unit": "成品加工課",
+        "mgr": "曾冠華",
+        "tel": "324",
+        "qty": null,
+        "unit_str": "L",
+        "monthly": 2
+      },
+      {
+        "unit": "LCD KVM組裝課",
+        "mgr": "王貫宇",
+        "tel": "336",
+        "qty": null,
+        "unit_str": "L",
+        "monthly": 1
+      }
+    ],
+    "2": [
+      {
+        "unit": "廠務部",
+        "mgr": "林美惠",
+        "tel": "202",
+        "qty": 84,
+        "unit_str": "L",
+        "monthly": 4
+      }
+    ],
+    "3": [
+      {
+        "unit": "廠務部",
+        "mgr": "林美惠",
+        "tel": "202",
+        "qty": 950,
+        "unit_str": "L",
+        "monthly": 2.5
+      }
+    ],
+    "4": [
+      {
+        "unit": "板卡工程部",
+        "mgr": "林威壯",
+        "tel": "314",
+        "qty": 0.4,
+        "unit_str": "L",
+        "monthly": 0.4
+      }
+    ],
+    "5": [
+      {
+        "unit": "板卡工程部",
+        "mgr": "林威壯",
+        "tel": "314",
+        "qty": 18.9,
+        "unit_str": "L",
+        "monthly": 4
+      },
+      {
+        "unit": "KVM組裝課",
+        "mgr": "孫柏豪",
+        "tel": "335",
+        "qty": null,
+        "unit_str": "L",
+        "monthly": 2
+      },
+      {
+        "unit": "成品加工課",
+        "mgr": "曾冠華",
+        "tel": "324",
+        "qty": null,
+        "unit_str": "L",
+        "monthly": 1
+      },
+      {
+        "unit": "LCD KVM組裝課",
+        "mgr": "王貫宇",
+        "tel": "336",
+        "qty": null,
+        "unit_str": "L",
+        "monthly": 1
+      },
+      {
+        "unit": "板卡工程部B",
+        "mgr": "黃小明",
+        "tel": "315",
+        "qty": null,
+        "unit_str": "L",
+        "monthly": 0.5
+      }
+    ]
+  }
+}
