@@ -91,29 +91,6 @@
       "health_chk": "",
       "sds_date": "2024/3/1",
       "dept_count": 5
-    },
-    {
-      "id": "101-1",
-      "name": "2",
-      "brand": "",
-      "state": "液體",
-      "flash": null,
-      "water": "",
-      "fire_yn": "待查詢",
-      "fire_sub": "",
-      "fire_ctrl": null,
-      "total_ton": 0,
-      "ratio": 0,
-      "fire_reach": "—",
-      "pm_yn": "待查詢",
-      "pm_kuan": "",
-      "pm_thr": "",
-      "organic": "待查詢",
-      "spec_chem": "待查詢",
-      "toxic": "待查詢",
-      "health_chk": "",
-      "sds_date": "",
-      "dept_count": 0
     }
   ],
   "components": {
@@ -208,8 +185,7 @@
         "pm_kuan": "未列入",
         "is_tox": "否"
       }
-    ],
-    "101-1": []
+    ]
   },
   "departments": {
     "2": [
@@ -283,7 +259,6 @@
         "unit_str": "L",
         "monthly": 0.5
       }
-    ],
-    "101-1": []
+    ]
   }
 }
