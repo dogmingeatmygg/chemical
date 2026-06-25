@@ -1,29 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "愛可寧C電子用清潔液",
-      "brand": "電子用清潔液",
-      "state": "液體",
-      "flash": 13,
-      "water": "非水溶性",
-      "fire_yn": "是",
-      "fire_sub": "第四類（易燃液體）",
-      "fire_ctrl": 400,
-      "total_ton": 0.0189,
-      "ratio": 0.04725,
-      "fire_reach": "否",
-      "pm_yn": "否",
-      "pm_kuan": "",
-      "pm_thr": "",
-      "organic": "是",
-      "spec_chem": "否",
-      "toxic": "否",
-      "health_chk": "",
-      "sds_date": "2024/3/1",
-      "dept_count": 3
-    },
-    {
       "id": "2",
       "name": "95%乙醇(酒精)",
       "brand": "酒精",
@@ -140,32 +117,6 @@
     }
   ],
   "components": {
-    "1": [
-      {
-        "name": "乙醇",
-        "en": "Ethanol",
-        "cas": "64-17-5",
-        "twa": "1000 ppm",
-        "org_type": "有機溶劑（未列入附表一分類）",
-        "is_org": "是",
-        "eval": "作業採樣",
-        "health": "",
-        "pm_kuan": "未列入",
-        "is_tox": "否"
-      },
-      {
-        "name": "水",
-        "en": "Water",
-        "cas": "7732-18-5",
-        "twa": "—",
-        "org_type": "",
-        "is_org": "否",
-        "eval": "CCB",
-        "health": "",
-        "pm_kuan": "未列入",
-        "is_tox": "否"
-      }
-    ],
     "2": [
       {
         "name": "乙醇",
@@ -261,32 +212,6 @@
     "101-1": []
   },
   "departments": {
-    "1": [
-      {
-        "unit": "KVM組裝課",
-        "mgr": "孫柏豪",
-        "tel": "335",
-        "qty": 18.9,
-        "unit_str": "L",
-        "monthly": 4.7
-      },
-      {
-        "unit": "成品加工課",
-        "mgr": "曾冠華",
-        "tel": "324",
-        "qty": null,
-        "unit_str": "L",
-        "monthly": 2
-      },
-      {
-        "unit": "LCD KVM組裝課",
-        "mgr": "王貫宇",
-        "tel": "336",
-        "qty": null,
-        "unit_str": "L",
-        "monthly": 1
-      }
-    ],
     "2": [
       {
         "unit": "廠務部",
