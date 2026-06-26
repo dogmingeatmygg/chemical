@@ -1,6 +1,9 @@
 {
   "products": [
     {
+      "pkg_vol": null,
+      "pkg_name": "桶",
+      "pm_ghs": "",
       "id": "1",
       "name": "愛可寧C電子用清潔液",
       "brand": "電子用清潔液",
@@ -25,6 +28,9 @@
       "group": "g1"
     },
     {
+      "pkg_vol": null,
+      "pkg_name": "桶",
+      "pm_ghs": "",
       "id": "2",
       "name": "95%乙醇(酒精)",
       "brand": "酒精",
@@ -49,6 +55,9 @@
       "group": "g1"
     },
     {
+      "pkg_vol": null,
+      "pkg_name": "桶",
+      "pm_ghs": "",
       "id": "3",
       "name": "超級柴油",
       "brand": "柴油",
@@ -73,6 +82,9 @@
       "group": "g1"
     },
     {
+      "pkg_vol": null,
+      "pkg_name": "桶",
+      "pm_ghs": "",
       "id": "4",
       "name": "WD-40",
       "brand": "潤滑防鏽劑",
@@ -97,6 +109,9 @@
       "group": "g1"
     },
     {
+      "pkg_vol": null,
+      "pkg_name": "桶",
+      "pm_ghs": "易燃液體第2級\n腐蝕/剌激皮膚物質第3級\n水環境之危害物質(急毒性)第2級\n吸入性危害物質第1級\n嚴重損傷/刺激眼睛2A級",
       "id": "5",
       "name": "TD13",
       "brand": "清潔劑TD13",
@@ -116,7 +131,7 @@
       "spec_chem": "否",
       "toxic": "否",
       "health_chk": "",
-      "sds_date": "2024/3/1",
+      "sds_date": "",
       "dept_count": 5,
       "group": "g1"
     }
