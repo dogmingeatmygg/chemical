@@ -1,7 +1,66 @@
 {
-  "products": [],
-  "components": {},
-  "departments": {},
+  "products": [
+    {
+      "id": "1",
+      "name": "11",
+      "group": "g1782462627486",
+      "brand": "11",
+      "state": "液體",
+      "flash": 13,
+      "water": "水溶性",
+      "sds_date": "1222/03/03",
+      "pkg_vol": 12,
+      "pkg_name": "包",
+      "pm_ghs": "易燃液體第2級",
+      "fire_yn": "是",
+      "fire_sub": "酒精類（閃點12℃，C3醇）",
+      "fire_ctrl": 400,
+      "total_ton": 0.0004,
+      "ratio": 0.001,
+      "fire_reach": "否",
+      "pm_yn": "是",
+      "pm_kuan": "第3款",
+      "pm_thr": "",
+      "organic": "是",
+      "spec_chem": "否",
+      "ctrl_chem": "否",
+      "toxic": "否",
+      "health_chk": "",
+      "dept_count": 1
+    }
+  ],
+  "components": {
+    "1": [
+      {
+        "name": "水",
+        "en": "",
+        "cas": "67-63-0",
+        "twa": "400 ppm（983 mg/m³）",
+        "org_type": "有機溶劑第二種",
+        "is_org": "是",
+        "spec_cls": "",
+        "is_spec": "否",
+        "tox_cls": "",
+        "is_tox": "否",
+        "ctrl": "否",
+        "eval": "作業採樣",
+        "health": "",
+        "pm_kuan": "第3款"
+      }
+    ]
+  },
+  "departments": {
+    "1": [
+      {
+        "unit": "smt",
+        "mgr": "ss",
+        "tel": "111",
+        "qty": 0.4,
+        "unit_str": "L",
+        "monthly": 19
+      }
+    ]
+  },
   "groups": [
     {
       "id": "g1782462627486",
