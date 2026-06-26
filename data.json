@@ -66,7 +66,7 @@
       "water": "非水溶性",
       "fire_yn": "是",
       "fire_sub": "第四類（易燃液體）",
-      "fire_ctrl": 2000,
+      "fire_ctrl": 400,
       "total_ton": 0.95,
       "ratio": 0.475,
       "fire_reach": "否",
