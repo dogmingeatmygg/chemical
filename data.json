@@ -24,7 +24,8 @@
       "toxic": "待查詢",
       "health_chk": "",
       "sds_date": "2000/01/30",
-      "dept_count": 0
+      "dept_count": 0,
+      "pm_ghs": "易燃液體第2級"
     }
   ],
   "components": {
