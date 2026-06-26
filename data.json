@@ -4,33 +4,6 @@
       "pkg_vol": null,
       "pkg_name": "桶",
       "pm_ghs": "",
-      "id": "3",
-      "name": "超級柴油",
-      "brand": "柴油",
-      "state": "液體",
-      "flash": 74,
-      "water": "非水溶性",
-      "fire_yn": "是",
-      "fire_sub": "第四類（易燃液體）",
-      "fire_ctrl": 400,
-      "total_ton": 0.95,
-      "ratio": 0.475,
-      "fire_reach": "否",
-      "pm_yn": "否",
-      "pm_kuan": "",
-      "pm_thr": "",
-      "organic": "否",
-      "spec_chem": "否",
-      "toxic": "否",
-      "health_chk": "",
-      "sds_date": "",
-      "dept_count": 1,
-      "group": ""
-    },
-    {
-      "pkg_vol": null,
-      "pkg_name": "桶",
-      "pm_ghs": "",
       "id": "4",
       "name": "WD-40",
       "brand": "潤滑防鏽劑",
@@ -83,20 +56,6 @@
     }
   ],
   "components": {
-    "3": [
-      {
-        "name": "柴油",
-        "en": "Super Diesel",
-        "cas": "68476-34-6",
-        "twa": "—",
-        "org_type": "",
-        "is_org": "否",
-        "eval": "CCB",
-        "health": "",
-        "pm_kuan": "未列入",
-        "is_tox": "否"
-      }
-    ],
     "4": [
       {
         "name": "異烷烃",
@@ -163,16 +122,6 @@
     ]
   },
   "departments": {
-    "3": [
-      {
-        "unit": "廠務部",
-        "mgr": "林美惠",
-        "tel": "202",
-        "qty": 950,
-        "unit_str": "L",
-        "monthly": 2.5
-      }
-    ],
     "4": [
       {
         "unit": "板卡工程部",
