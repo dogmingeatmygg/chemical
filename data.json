@@ -4,33 +4,6 @@
       "pkg_vol": null,
       "pkg_name": "桶",
       "pm_ghs": "",
-      "id": "2",
-      "name": "95%乙醇(酒精)",
-      "brand": "酒精",
-      "state": "液體",
-      "flash": 13,
-      "water": "水溶性",
-      "fire_yn": "是",
-      "fire_sub": "第四類（易燃液體）",
-      "fire_ctrl": 400,
-      "total_ton": 0.084,
-      "ratio": 0.21,
-      "fire_reach": "否",
-      "pm_yn": "否",
-      "pm_kuan": "",
-      "pm_thr": "",
-      "organic": "是",
-      "spec_chem": "否",
-      "toxic": "否",
-      "health_chk": "",
-      "sds_date": "2024/3/1",
-      "dept_count": 1,
-      "group": ""
-    },
-    {
-      "pkg_vol": null,
-      "pkg_name": "桶",
-      "pm_ghs": "",
       "id": "3",
       "name": "超級柴油",
       "brand": "柴油",
@@ -110,20 +83,6 @@
     }
   ],
   "components": {
-    "2": [
-      {
-        "name": "乙醇",
-        "en": "Ethanol",
-        "cas": "64-17-5",
-        "twa": "1000 ppm",
-        "org_type": "有機溶劑（未列入附表一分類）",
-        "is_org": "是",
-        "eval": "作業採樣",
-        "health": "",
-        "pm_kuan": "未列入",
-        "is_tox": "否"
-      }
-    ],
     "3": [
       {
         "name": "柴油",
@@ -204,16 +163,6 @@
     ]
   },
   "departments": {
-    "2": [
-      {
-        "unit": "廠務部",
-        "mgr": "林美惠",
-        "tel": "202",
-        "qty": 84,
-        "unit_str": "L",
-        "monthly": 4
-      }
-    ],
     "3": [
       {
         "unit": "廠務部",
