@@ -1,51 +1,7 @@
 {
-  "products": [
-    {
-      "id": "1",
-      "name": "TD13",
-      "group": "g1782462627486",
-      "brand": "速程",
-      "state": "液體",
-      "flash": 13,
-      "water": "水溶性",
-      "pkg_vol": 20,
-      "pkg_name": "桶",
-      "fire_yn": "待查詢",
-      "fire_sub": "",
-      "fire_ctrl": null,
-      "total_ton": 0,
-      "ratio": 0,
-      "fire_reach": "—",
-      "pm_yn": "待查詢",
-      "pm_kuan": "",
-      "pm_thr": "",
-      "organic": "待查詢",
-      "spec_chem": "待查詢",
-      "toxic": "待查詢",
-      "health_chk": "",
-      "sds_date": "2022/10/11",
-      "dept_count": 0
-    }
-  ],
-  "components": {
-    "1": [
-      {
-        "name": "易丙醇",
-        "en": "",
-        "cas": "67-63-0",
-        "twa": "待查詢",
-        "org_type": "",
-        "is_org": "待查詢",
-        "eval": "待查詢",
-        "health": "",
-        "pm_kuan": "待查詢",
-        "is_tox": "待查詢"
-      }
-    ]
-  },
-  "departments": {
-    "1": []
-  },
+  "products": [],
+  "components": {},
+  "departments": {},
   "groups": [
     {
       "id": "g1782462627486",
