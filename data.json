@@ -1,6 +1,9 @@
 {
   "products": [
     {
+      "pkg_vol": 12,
+      "pkg_name": "包",
+      "pm_ghs": "易燃液體第2級",
       "id": "1",
       "name": "11",
       "group": "g1782462627486",
@@ -9,9 +12,6 @@
       "flash": 13,
       "water": "水溶性",
       "sds_date": "1222/03/03",
-      "pkg_vol": 12,
-      "pkg_name": "包",
-      "pm_ghs": "易燃液體第2級",
       "fire_yn": "是",
       "fire_sub": "酒精類（閃點12℃，C3醇）",
       "fire_ctrl": 400,
@@ -25,6 +25,34 @@
       "spec_chem": "否",
       "ctrl_chem": "否",
       "toxic": "否",
+      "health_chk": "",
+      "dept_count": 1
+    },
+    {
+      "id": "2",
+      "name": "dd",
+      "group": "g1782462627486",
+      "brand": "dd",
+      "state": "液體",
+      "flash": 23,
+      "water": "非水溶性",
+      "sds_date": "1111/02/02",
+      "pkg_vol": 11,
+      "pkg_name": "桶",
+      "pm_ghs": "易燃液體第1級",
+      "fire_yn": "是(推算)",
+      "fire_sub": "第二石油類（閃點21-70℃）",
+      "fire_ctrl": null,
+      "total_ton": 0.001,
+      "ratio": 0,
+      "fire_reach": "否",
+      "pm_yn": "否",
+      "pm_kuan": "",
+      "pm_thr": "",
+      "organic": "否",
+      "spec_chem": "是",
+      "ctrl_chem": "是",
+      "toxic": "是",
       "health_chk": "",
       "dept_count": 1
     }
@@ -47,6 +75,24 @@
         "health": "",
         "pm_kuan": "第3款"
       }
+    ],
+    "2": [
+      {
+        "name": "11",
+        "en": "",
+        "cas": "1336-36-3",
+        "twa": "9 ppm（0.01 mg/m³）",
+        "org_type": "",
+        "is_org": "否",
+        "spec_cls": "特定化學物質甲類",
+        "is_spec": "是",
+        "tox_cls": "第一類、第二類",
+        "is_tox": "是",
+        "ctrl": "是",
+        "eval": "作業採樣",
+        "health": "",
+        "pm_kuan": "未列入"
+      }
     ]
   },
   "departments": {
@@ -58,6 +104,16 @@
         "qty": 0.4,
         "unit_str": "L",
         "monthly": 19
+      }
+    ],
+    "2": [
+      {
+        "unit": "11",
+        "mgr": "11",
+        "tel": "11",
+        "qty": 1,
+        "unit_str": "L",
+        "monthly": null
       }
     ]
   },
